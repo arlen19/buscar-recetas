@@ -1,8 +1,5 @@
-//import { recipeContainer } from '../controller.js';
-//import {renderSpinner} from '../controller.js';
 import fracty from 'fracty';
 const icons = new URL('../../img/icons.svg', import.meta.url);
-//import icons from '../../img/icons.svg';
 import { View } from './View.js';
 
 class RecipeView extends View {
