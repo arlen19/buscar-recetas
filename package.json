@@ -6,10 +6,6 @@
   "author": "brenda barcenas",
   "type": "commonjs",
   "source": "index.html",
-  //"scripts": {
-    //"start": "parcel index.html",
-    //"build": "parcel build index.html --public-url ."
-  //},
   "scripts": {
   "start": "npx parcel index.html",
   "build": "npx parcel build index.html --public-url ./"
