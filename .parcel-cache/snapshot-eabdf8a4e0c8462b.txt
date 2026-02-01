@@ -1,4 +1,4 @@
-3677
+3684
 88C:\Users\arlen\Documents\forkify\node_modules\@parcel\core\test\fixtures\invalid-targets134136108559991256 1
 62C:\Users\arlen\Documents\forkify\node_modules\readdirp\LICENSE134136122720743540 0
 52C:\Users\arlen\Documents\forkify\src\img\favicon.png133147587000000000 0
@@ -23,13 +23,13 @@
 95C:\Users\arlen\Documents\forkify\node_modules\@parcel\package-manager\src\promiseFromProcess.js134136108540736865 0
 88C:\Users\arlen\Documents\forkify\node_modules\node-gyp-build-optional-packages\README.md134136108529903587 0
 68C:\Users\arlen\Documents\forkify\node_modules\@parcel\fs\src\find.js134136108527180423 0
-45C:\Users\arlen\Documents\forkify\package.json134144532959537065 0
+45C:\Users\arlen\Documents\forkify\package.json134144542184751993 0
 81C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\xhtml.js134136108585000428 0
 68C:\Users\arlen\Documents\forkify\node_modules\ordered-binary\LICENSE134136108522375600 0
 82C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\cjs\_async_iterator.cjs134136108534566601 0
 83C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_new_arrow_check.mjs134136108567510453 0
 63C:\Users\arlen\Documents\forkify\node_modules\lmdb\util\when.js134136108557600614 0
-37C:\Users\arlen\Documents\forkify\dist134144526282594555 1
+37C:\Users\arlen\Documents\forkify\dist134144542219279429 1
 72C:\Users\arlen\Documents\forkify\node_modules\@parcel\cache\lib\index.js134136108533396884 0
 62C:\Users\arlen\Documents\forkify\node_modules\dotenv\config.js134136108525928870 0
 51C:\Users\arlen\Documents\forkify\node_modules\clone134136108529002819 1
@@ -235,7 +235,7 @@
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\AD.js134136108533225858 0
 55C:\Users\arlen\Documents\forkify\node_modules\commander134136108535608407 1
 94C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\css-cascade-layers.js134136108556136716 0
-57C:\Users\arlen\Documents\forkify\dist\forkify.4a59a05f.js134144526281941239 0
+57C:\Users\arlen\Documents\forkify\dist\forkify.4a59a05f.js134144542219089414 0
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\SV.js134136108581572894 0
 64C:\Users\arlen\Documents\forkify\node_modules\color-name\LICENSE134136108525616395 0
 75C:\Users\arlen\Documents\forkify\node_modules\@parcel\profiler\lib\index.js134136108526085104 0
@@ -568,6 +568,7 @@
 71C:\Users\arlen\Documents\forkify\node_modules\type-fest\ts41\index.d.ts134136108538398522 0
 78C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\_\_get\package.json134136108561241173 0
 65C:\Users\arlen\Documents\forkify\node_modules\lmdb\src\cursor.cpp134136108553672765 0
+58C:\Users\arlen\Documents\forkify\dist\favicon.38ab3f7a.png134144538602356050 0
 76C:\Users\arlen\Documents\forkify\node_modules\type-fest\ts41\kebab-case.d.ts134136108539220860 0
 91C:\Users\arlen\Documents\forkify\node_modules\@parcel\core\lib\public\MutableBundleGraph.js134136108552232344 0
 81C:\Users\arlen\Documents\forkify\node_modules\msgpackr\dist\index-no-eval.cjs.map134136108542020536 0
@@ -1173,7 +1174,7 @@
 65C:\Users\arlen\Documents\forkify\node_modules\fraction.js\LICENSE134141293035318776 0
 101C:\Users\arlen\Documents\forkify\node_modules\lightningcss\node_modules\detect-libc\lib\filesystem.js134136108528562920 0
 63C:\Users\arlen\Documents\forkify\node_modules\parcel\lib\bin.js134136108524991434 0
-55C:\Users\arlen\Documents\forkify\dist\logo.726d37a8.png134144526281846983 0
+55C:\Users\arlen\Documents\forkify\dist\logo.726d37a8.png134144542205600676 0
 67C:\Users\arlen\Documents\forkify\node_modules\msgpackr\unpack.d.cts134136108533709361 0
 78C:\Users\arlen\Documents\forkify\node_modules\fraction.js\examples\egyptian.js134141293035475012 0
 67C:\Users\arlen\Documents\forkify\node_modules\msgpackr\package.json134136108540580645 0
@@ -1746,7 +1747,7 @@
 65C:\Users\arlen\Documents\forkify\node_modules\dotenv\package.json134136108530528542 0
 83C:\Users\arlen\Documents\forkify\node_modules\@parcel\core\lib\SymbolPropagation.js134136108555391394 0
 85C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\_\_call_super\package.json134136108558854648 0
-56C:\Users\arlen\Documents\forkify\dist\icons.0809ef97.svg134144526281926964 0
+56C:\Users\arlen\Documents\forkify\dist\icons.0809ef97.svg134144542205756914 0
 83C:\Users\arlen\Documents\forkify\node_modules\@parcel\types-internal\lib\index.d.ts134136108540268145 0
 65C:\Users\arlen\Documents\forkify\node_modules\dotenv\README-es.md134136108533089046 0
 71C:\Users\arlen\Documents\forkify\node_modules\dotenv\lib\cli-options.js134136108524714642 0
@@ -1769,6 +1770,7 @@
 87C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\input-event.js134136108571806010 0
 86C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\_\_async_generator_delegate134136108558542183 1
 91C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\abortcontroller.js134136108527492910 0
+57C:\Users\arlen\Documents\forkify\dist\forkify.03b0d333.js134144538604982537 0
 88C:\Users\arlen\Documents\forkify\node_modules\@parcel\transformer-react-refresh-wrap\src134136108530059823 1
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\AI.js134136108538398522 0
 84C:\Users\arlen\Documents\forkify\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts134136108532620328 0
@@ -1866,7 +1868,7 @@
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\DO.js134136108567149480 0
 75C:\Users\arlen\Documents\forkify\node_modules\@parcel\transformer-image\lib134136108530841018 1
 93C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\input-placeholder.js134136108571888210 0
-56C:\Users\arlen\Documents\forkify\dist\icons.21bad73c.svg134144526281941239 0
+56C:\Users\arlen\Documents\forkify\dist\icons.21bad73c.svg134144542205756914 0
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\EC.js134136108567822939 0
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\EE.js134136108567822939 0
 77C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\regions\ER.js134136108568135409 0
@@ -2590,6 +2592,7 @@
 84C:\Users\arlen\Documents\forkify\node_modules\@parcel\packager-js\lib\DevPackager.js134136108531362480 0
 56C:\Users\arlen\Documents\forkify\node_modules\@swc\types134136108529591111 1
 71C:\Users\arlen\Documents\forkify\node_modules\@swc\types\assumptions.js134136108524334832 0
+62C:\Users\arlen\Documents\forkify\dist\forkify.5adc5521.css.map134144538605138795 0
 67C:\Users\arlen\Documents\forkify\node_modules\@swc\types\index.d.ts134136108531026057 0
 65C:\Users\arlen\Documents\forkify\node_modules\@swc\types\index.js134136108525616395 0
 69C:\Users\arlen\Documents\forkify\node_modules\@swc\types\package.json134136108526730001 0
@@ -2707,7 +2710,7 @@
 81C:\Users\arlen\Documents\forkify\node_modules\@parcel\error-overlay\src\styles.js134136108542534213 0
 69C:\Users\arlen\Documents\forkify\node_modules\@parcel\runtime-rsc\lib134136108524586764 1
 78C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_call_super.mjs134136108565734157 0
-48C:\Users\arlen\Documents\forkify\dist\index.html134144526281706078 0
+48C:\Users\arlen\Documents\forkify\dist\index.html134144542215593946 0
 84C:\Users\arlen\Documents\forkify\node_modules\@mischnic\json-sourcemap\dist\index.js134136108529002819 0
 96C:\Users\arlen\Documents\forkify\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js134136108538242281 0
 95C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs134136108565734157 0
@@ -2723,7 +2726,7 @@
 92C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_class_private_field_init.mjs134136108566046633 0
 63C:\Users\arlen\Documents\forkify\node_modules\@swc\core\util.js134136108534953903 0
 97C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs134136108566204230 0
-56C:\Users\arlen\Documents\forkify\dist\icons.7bd9dd61.svg134144526281941239 0
+56C:\Users\arlen\Documents\forkify\dist\icons.7bd9dd61.svg134144542205756914 0
 91C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_class_private_field_set.mjs134136108566204230 0
 94C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_class_private_field_update.mjs134136108566284237 0
 93C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\src\_class_private_method_init.mjs134136108566284237 0
@@ -3672,7 +3675,11 @@
 59C:\Users\arlen\Documents\forkify\node_modules\.bin\sass.cmd134136122725483723 0
 57C:\Users\arlen\Documents\forkify\node_modules\.bin\semver134136108585942167 0
 77C:\Users\arlen\Documents\forkify\node_modules\.bin\update-browserslist-db.ps1134136108585942167 0
-58C:\Users\arlen\Documents\forkify\dist\favicon.8b2f57bf.png134144526281846983 0
-61C:\Users\arlen\Documents\forkify\dist\forkify.4a59a05f.js.map134144526282594555 0
-58C:\Users\arlen\Documents\forkify\dist\forkify.f7626f62.css134144526281766963 0
-62C:\Users\arlen\Documents\forkify\dist\forkify.f7626f62.css.map134144526282594555 0
+58C:\Users\arlen\Documents\forkify\dist\favicon.8b2f57bf.png134144542205600676 0
+61C:\Users\arlen\Documents\forkify\dist\forkify.03b0d333.js.map134144538605138795 0
+61C:\Users\arlen\Documents\forkify\dist\forkify.4a59a05f.js.map134144542219279429 0
+58C:\Users\arlen\Documents\forkify\dist\forkify.5adc5521.css134144538604982537 0
+58C:\Users\arlen\Documents\forkify\dist\forkify.f7626f62.css134144542205600676 0
+62C:\Users\arlen\Documents\forkify\dist\forkify.f7626f62.css.map134144542207087133 0
+56C:\Users\arlen\Documents\forkify\dist\icons.c5b0f01c.svg134144538602953335 0
+55C:\Users\arlen\Documents\forkify\dist\logo.0240107d.png134144538602356050 0
