@@ -4,19 +4,18 @@
   "description": "",
   "license": "ISC",
   "author": "brenda barcenas",
-  "type": "module",
-  "source": "src/index.html",
+  "type": "commonjs",
+  "source": "index.html",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url ./"
-  },
+  "start": "npx parcel index.html",
+  "build": "npx parcel build index.html --public-url ./"
+},
   "devDependencies": {
-    "parcel": "^2.16.3",
-    "@parcel/transformer-sass": "^2.16.3"
+    "@parcel/transformer-sass": "^2.16.3",
+    "parcel": "^2.16.3"
   },
   "dependencies": {
     "fraction.js": "^5.3.4",
     "fracty": "^1.0.12"
   }
 }
-
