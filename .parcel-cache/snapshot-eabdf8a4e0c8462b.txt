@@ -23,7 +23,7 @@
 95C:\Users\arlen\Documents\forkify\node_modules\@parcel\package-manager\src\promiseFromProcess.js134136108540736865 0
 88C:\Users\arlen\Documents\forkify\node_modules\node-gyp-build-optional-packages\README.md134136108529903587 0
 68C:\Users\arlen\Documents\forkify\node_modules\@parcel\fs\src\find.js134136108527180423 0
-45C:\Users\arlen\Documents\forkify\package.json134144542184751993 0
+45C:\Users\arlen\Documents\forkify\package.json134144546172652632 0
 81C:\Users\arlen\Documents\forkify\node_modules\caniuse-lite\data\features\xhtml.js134136108585000428 0
 68C:\Users\arlen\Documents\forkify\node_modules\ordered-binary\LICENSE134136108522375600 0
 82C:\Users\arlen\Documents\forkify\node_modules\@swc\helpers\cjs\_async_iterator.cjs134136108534566601 0

@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
-  "author": "brenda barcenas",
+  "author": "Arlen Barcenas",
   "type": "commonjs",
   "source": "index.html",
   "scripts": {
-  "start": "parcel index.html",
-  "build": "npx --yes parcel@2.16.3 build index.html --public-url ./"
-},
+    "start": "npx parcel index.html",
+    "build": "node ./node_modules/parcel/lib/bin.js build index.html --public-url ./"
+  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.16.3",
     "parcel": "^2.16.3"
   },
   "dependencies": {
-    "fraction.js": "^5.3.4",
+    "fractional": "^1.0.0",
     "fracty": "^1.0.12"
   }
 }
